@@ -2,6 +2,6 @@
 
 
 document.addEventListener("DOMContentLoaded", e => {
-  document.querySelector("body")
+  document.get("body")
    .addEventListener("click", e => console.log("Reggae, Reggae!"));
 })
