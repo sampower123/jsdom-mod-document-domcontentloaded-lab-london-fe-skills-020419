@@ -3,5 +3,5 @@
 
 document.addEventListener("DOMContentLoaded", e => {
   document.getElementByID("hidden-div")
-   .addEventListener("click", e => console.log("301"));
+   .addEventListener("click", e => console.log("Reggae, Reggae!"));
 })
