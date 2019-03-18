@@ -2,5 +2,5 @@
 
 document.addEventListener("DOMContentLoaded", e => {
   document.querySelector("div#hidden-div")
-   .addEventListener("click", e => innerText));
+   .addEventListener("click", e => console.log("Reggae, Reggae!"));
 })
